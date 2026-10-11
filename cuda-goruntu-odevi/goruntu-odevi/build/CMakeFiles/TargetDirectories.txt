@@ -1,0 +1,3 @@
+C:/Users/serka/Documents/Codex/2026-10-11/maximize-usage-with-gpt-6-1/outputs/cuda-goruntu-odevi/goruntu-odevi/build/CMakeFiles/odev.dir
+C:/Users/serka/Documents/Codex/2026-10-11/maximize-usage-with-gpt-6-1/outputs/cuda-goruntu-odevi/goruntu-odevi/build/CMakeFiles/edit_cache.dir
+C:/Users/serka/Documents/Codex/2026-10-11/maximize-usage-with-gpt-6-1/outputs/cuda-goruntu-odevi/goruntu-odevi/build/CMakeFiles/rebuild_cache.dir

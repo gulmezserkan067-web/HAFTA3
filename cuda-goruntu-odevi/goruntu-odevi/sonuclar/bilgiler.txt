@@ -1,0 +1,4 @@
+GPU: NVIDIA GeForce RTX 4050 Laptop GPU
+Minimum: 90
+Maksimum: 146
+Sure: 3.0608 ms (bellek ayirma ve aktarimlar dahil)
